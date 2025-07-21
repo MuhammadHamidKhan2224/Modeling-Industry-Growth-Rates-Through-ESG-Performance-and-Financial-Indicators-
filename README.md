@@ -1,0 +1,2 @@
+# Modeling-Industry-Growth-Rates-Through-ESG-Performance-and-Financial-Indicators-
+This project studies the impact of ESG performance and financial indicators on industry growth using panel data and Fixed Effects models. Financial metrics like Revenue and Market Capitalization significantly affect growth, while ESG factors show subtler effects, indicating the need for longer-term evaluation of sustainability’s role in growth.
